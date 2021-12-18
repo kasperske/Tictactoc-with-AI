@@ -1,6 +1,6 @@
 # Tictactoc-with-AI
 Train AI and play tictactoc with AI<br> 
 
-chess_tree.py: play tictactoc with AI<br> 
-tree.py: train AI<br> 
-tree.npy: parameters<br> 
+Run chess_tree.py to play tictactoc with AI<br> 
+Run tree.py to train AI parameters(tree.npy)<br> 
+
